@@ -1,4 +1,3 @@
-BookStore\src\main\resources\mysql.properties
 Простое CRUD приложение, выполненное на освное JDBC, JSP, Servlet, MySQL и Tomcat.
 
 Если нет желания заморачиваться с его развертыванием, то в папке "img" есть скрины того, как это выглядит.
